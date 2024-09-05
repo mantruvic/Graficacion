@@ -8,7 +8,9 @@ Alex Clark en colaboración con otros programadores ha desarrollado Pillow, una 
 mantener una librería estable y que se adapte a nuevas teconologías (Python 3.x).
 Por esta razón, siempre es mejor usar Pillow en lugar de PIL.
 
+
 Descarga e instalación
 Ahora PIL / Pillow se instala fácilmente vía pip:
 Desde la linea de comandos o CMD en windows escribir:
+
   pip install Pillow
